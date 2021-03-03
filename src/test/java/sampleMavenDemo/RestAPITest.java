@@ -6,12 +6,12 @@ public class RestAPITest {
 	
 	@Test
 	public void postJiraDefect() {
-		System.out.println("post jira ");	
+		System.out.println("post jira11");	
 	}
 	
 	@Test
 	public void deleteJira() {
-		System.out.println("delete jira ");	
+		System.out.println("delete jira11 ");	
 	}
 
 }
