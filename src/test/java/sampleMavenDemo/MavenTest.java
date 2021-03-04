@@ -16,5 +16,16 @@ public class MavenTest {
 		System.out.println("android App");
 		System.out.println("It is an android app");
 	}
+	
+	@Test
+	public void androidApp1() {
+		System.out.println("android App");
+		System.out.println("It is an android app");
+	}
 
+	@Test
+	public void androidApp2() {
+		System.out.println("android App");
+		System.out.println("It is an android app");
+	}
 }
