@@ -15,5 +15,11 @@ public class seleniumTest {
 		System.out.println("Perform Action ");
 		
 	}
+	@Test
+	
+	public void PerformAction1() {
+		System.out.println("Dev Action ");
+		
+	}
 
 }
