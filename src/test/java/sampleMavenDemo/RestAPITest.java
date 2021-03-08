@@ -19,8 +19,15 @@ public class RestAPITest {
 		System.out.println("delete jira12 ");	
 	}
 	
+	@Test
 	public void deleteJira2() {
 		System.out.println("delete jira12 ");	
 	}
+	
+	@Test
+	public void deleteJira3() {
+		System.out.println("Dev delete jira12 ");	
+	}
+
 
 }
